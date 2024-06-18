@@ -13,6 +13,7 @@ let krd = document.querySelector("h2 .kredit")
 let bll = document.querySelector("h2 .ball")
 let gpa = document.querySelector("h2 .gpa")
 
+alert("Fan bahosi 2 bo'lsa, 0 deb hisoblanadi!");
 go.onclick = () => {
     form1.style.display = "none";
     form2.style.display = "block"
