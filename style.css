@@ -21,6 +21,7 @@ body {
     color: navy;
     font-size: 26px;
     padding-top: 15px;
+    text-align:center;
 }
 #form1 {
     position: relative;
