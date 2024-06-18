@@ -54,7 +54,7 @@ ok.onclick = () => {
     }
 
     gpa.innerHTML = sum/k;
-    bll.innerHTML = b;
+    bll.innerHTML = sum;
     krd.innerHTML = k;
     
 }
